@@ -1,0 +1,27 @@
+#main-header{
+    text-align: center;
+    background-color: coral;
+    color: white;
+    padding: 10px;
+}
+
+#main-footer{
+    text-align: center;
+    font-size: 10px;
+}
+
+.post{
+    border: 5px rgb(43, 203, 203) solid;
+    background-color: aquamarine;
+}
+
+.nav{
+    text-decoration: none;
+    color: black;
+}
+
+.nav a{
+    color: black;
+    text-decoration: none;
+}
+

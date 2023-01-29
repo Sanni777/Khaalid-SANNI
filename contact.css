@@ -1,0 +1,85 @@
+body{ 
+}
+
+h1{
+    background-color: green;
+    color: wheat;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name{
+    padding: 50px;
+}
+
+.mail{
+    padding: 50px;
+}
+
+.input, textarea{
+    padding: 20px;
+    border: px solid ;
+    border-radius: 5px;
+    width: 500px;
+}
+
+#facebook{
+    padding-left: 20px;
+    font-size: xx-large;
+    color: blue;
+}
+
+#twitter{
+    padding-left: 20px;
+    font-size: xx-large;
+    color: blue;
+}
+
+#instagram{
+    padding-left: 20px;
+    font-size: xx-large;
+    color: palevioletred;
+}
+
+.icon{
+    color: green
+}
+
+#main-footer{
+    background: ;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: small;
+}
+
+#button{
+    margin-top: 50px;
+    float: right;
+    text-decoration: none;
+    text-decoration-color: brown;
+}
+
+form{
+    background-color: black;
+    background-repeat: no-repeat;
+    width: min-content;
+    height: max-content;
+}
+#cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

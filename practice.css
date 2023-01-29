@@ -1,0 +1,151 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#head{
+    display: flex;
+    justify-content: center;
+}
+
+#small{
+    justify-content: center;
+}
+
+#form{
+    width: 550px;
+    height: 1000px;
+    border-style: double;
+    padding-bottom: 80px;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    background-color:antiquewhite;
+}
+
+#welcome{
+background-color: burlywood;
+color: green;
+padding: 10px;
+text-align: center;
+width: auto;
+height: auto;
+background-size: auto;
+font-size: small;
+}
+
+div.a{
+    font-size: smaller;
+}
+
+#sign{
+    text-align: center;
+    background-color: coral;
+    padding: 1px;
+    color: wheat;
+}
+
+#space{
+    padding-left: 10px;
+    padding-top: 50px;
+}
+
+.input{
+    margin-left: 0px;
+    padding: 7px;
+    border-radius: 8px;
+    width: 350px;
+    outline: none;
+    border: none;
+}
+
+.label{
+    color: yellowgreen;
+    font-size: 20px;
+}
+
+#first{
+    padding: 20px;
+}
+
+#surname{
+    padding: 20px;
+}
+
+#other{
+    padding: 20px;
+}
+
+#mail{
+    padding: 20px;
+}
+
+#birthday{
+    padding: 0;
+    margin: 0;
+    
+}
+
+#age{
+    padding: 20px;
+}
+
+#gender{
+    padding: 20px 20px;
+}
+
+.button{
+    background: burlywood;
+    color: #fff;
+    font-size: 20px;
+    padding: 5px 10px;
+    justify-content: center;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: hover;
+}
+
+#main-footer{
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 0px;
+    margin-top: 90px;
+    color: black;
+    
+}
+.date, select{
+    border-radius: 8px;
+    width: 180px;
+    height: 30px;
+    outline: none;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 0px;
+}
+#button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+
+.image{
+    width: 110px;
+    height: 150px;
+    margin: auto;
+    float: left; 
+}
+
+.a{
+    color: black;
+    text-decoration: none;
+}

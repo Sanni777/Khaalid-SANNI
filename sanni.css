@@ -1,0 +1,32 @@
+body {
+    background-color: yellow;
+}
+#ab {
+    color: red;
+}
+#du {
+    font-size: 20px;
+}
+#ma {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+#li {
+    text-align: center;
+    color: red;
+}
+#ik {
+    font-size:30px;
+}
+#sa {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+#nn {
+    padding-left: 300px;
+}
+
+a:link {
+    color: red;
+}
